@@ -1,0 +1,33 @@
+
+{
+  "hero": {
+    "title": "Terms of Service",
+    "lastUpdated": "May 28, 2024"
+  },
+  "sections": [
+    {
+      "title": "1. Acceptance of Terms",
+      "content": "By accessing or using the Xmarty Creator website and services, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions, you may not access the website or use any services."
+    },
+    {
+      "title": "2. Use of Services",
+      "content": "You agree to use our services only for lawful purposes. You are prohibited from posting on or transmitting through the site any material that is disruptive or violates any law. You are granted a limited, non-exclusive license to access and use the course materials for your personal, non-commercial use."
+    },
+    {
+      "title": "3. User Accounts",
+      "content": "To access certain features, you must register for an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate. You are responsible for safeguarding your password."
+    },
+    {
+      "title": "4. Intellectual Property",
+      "content": "All content on this site, including but not limited to text, graphics, logos, and course materials, is the property of Xmarty Creator and is protected by copyright and other intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our express written permission."
+    },
+    {
+      "title": "5. Termination",
+      "content": "We may terminate or suspend your account and access to the services immediately, without prior notice or liability, for any reason whatsoever, including, without limitation, if you breach the Terms."
+    },
+    {
+      "title": "6. Limitation of Liability",
+      "content": "In no event shall Xmarty Creator, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+
+{
+  "hero": {
+    "title": "Privacy Policy",
+    "lastUpdated": "May 28, 2024"
+  },
+  "sections": [
+    {
+      "title": "1. Introduction",
+      "content": "Welcome to Xmarty Creator. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services."
+    },
+    {
+      "title": "2. Information We Collect",
+      "content": "We may collect personal information such as your name, email address, and payment information when you register for a course. We also collect non-personal information, such as browser type, operating system, and website usage data."
+    },
+    {
+      "title": "3. How We Use Your Information",
+      "content": "We use the information we collect to provide, operate, and maintain our services. This includes personalizing your experience, processing transactions, sending you marketing communications, and improving our website."
+    },
+    {
+      "title": "4. Sharing Your Information",
+      "content": "We do not sell, trade, or otherwise transfer your personal information to outside parties. This does not include trusted third parties who assist us in operating our website or servicing you, so long as those parties agree to keep this information confidential."
+    },
+    {
+      "title": "5. Security of Your Information",
+      "content": "We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable."
+    },
+    {
+      "title": "6. Changes to This Privacy Policy",
+      "content": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes."
+    }
+  ]
+}

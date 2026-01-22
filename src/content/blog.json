@@ -1,0 +1,33 @@
+
+{
+  "hero": {
+    "title": "From Our Blog",
+    "description": "Insights, tutorials, and stories from the Xmarty Creator team."
+  },
+  "posts": [
+    {
+      "title": "The Future of Web Development",
+      "slug": "future-of-web-development",
+      "description": "An insight into the future trends of web development, including AI, and more.",
+      "imageId": "blog-1",
+      "link": "/blog/future-of-web-development",
+      "content": "The web is constantly evolving. In the coming years, we can expect to see a greater emphasis on AI-driven development, with tools that can write code, suggest designs, and even automate testing. WebAssembly will continue to mature, enabling near-native performance for web applications. Furthermore, the rise of edge computing will allow for faster, more responsive user experiences by processing data closer to the user."
+    },
+    {
+      "title": "A Guide to UI/UX Design",
+      "slug": "guide-to-ui-ux-design",
+      "description": "Learn the core principles of creating stunning and effective user interfaces.",
+      "imageId": "blog-2",
+      "link": "/blog/guide-to-ui-ux-design",
+      "content": "UI/UX design is more than just making things look pretty. It's about creating intuitive, efficient, and enjoyable experiences for the user. Key principles include understanding your user's needs, creating clear and consistent layouts, providing feedback for user actions, and ensuring accessibility for all. A successful design is one that solves a user's problem without them even noticing the interface."
+    },
+    {
+      "title": "Getting Started with React Hooks",
+      "slug": "getting-started-with-react-hooks",
+      "description": "A beginner-friendly tutorial on using hooks in React for state management.",
+      "imageId": "blog-3",
+      "link": "/blog/getting-started-with-react-hooks",
+      "content": "React Hooks have revolutionized how we write components. They allow you to use state and other React features without writing a class. The `useState` hook lets you add state to functional components, while `useEffect` lets you perform side effects, such as fetching data or subscribing to events. By combining these and other hooks, you can build complex and powerful components with simpler, more readable code."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "carousel-1",
+      "description": "Abstract blue and purple texture",
+      "imageUrl": "https://images.unsplash.com/photo-1597773150796-e5c14ebecbf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGJsdWV8ZW58MHx8fHwxNzYwNzMwOTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract blue"
+    },
+    {
+      "id": "carousel-2",
+      "description": "Abstract yellow and orange geometric pattern",
+      "imageUrl": "https://images.unsplash.com/photo-1487147264018-f937fba0c817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdCUyMHllbGxvd3xlbnwwfHx8fDE3NjA3ODA4MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract yellow"
+    },
+    {
+      "id": "carousel-3",
+      "description": "Soft focus image of lights and textures",
+      "imageUrl": "https://images.unsplash.com/photo-1540457036297-448b6b99e91c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMHRleHR1cmV8ZW58MHx8fHwxNzYwNzMyNDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract texture"
+    },
+    {
+      "id": "blog-1",
+      "description": "Close up on laptop with code",
+      "imageUrl": "https://images.unsplash.com/photo-1603575448360-153f093fd0b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb2RlJTIwbGFwdG9wfGVufDB8fHx8MTc2MDc0ODg4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code laptop"
+    },
+    {
+      "id": "blog-2",
+      "description": "Designer's desk with wireframes",
+      "imageUrl": "https://images.unsplash.com/photo-1629824019366-ffcb6b334634?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkZXNpZ24lMjBkZXNrfGVufDB8fHx8MTc2MDc2ODM1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "design desk"
+    },
+    {
+      "id": "blog-3",
+      "description": "React logo on a screen",
+      "imageUrl": "https://images.unsplash.com/photo-1758582382490-ae12332fd781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmVhY3QlMjBsb2dvfGVufDB8fHx8MTc2MDc2NjMwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "react logo"
+    },
+    {
+      "id": "community-1",
+      "description": "Diverse group of people collaborating",
+      "imageUrl": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NjA3MzEwOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "about-hero",
+      "description": "Modern office space with people working",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-4b46a572b786?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjBvZmZpY2V8ZW58MHx8fHwxNzYwNzMxMTM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern office"
+    },
+    {
+      "id": "team-1",
+      "description": "Professional headshot of a man",
+      "imageUrl": "https://images.unsplash.com/photo-1627161684458-a62da52b51c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFuJTIwaGVhZHNob3R8ZW58MHx8fHwxNzYwNzYxMjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man headshot"
+    },
+    {
+      "id": "team-2",
+      "description": "Professional headshot of a woman",
+      "imageUrl": "https://images.unsplash.com/photo-1573496358961-3c82861ab8f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMGhlYWRzaG90fGVufDB8fHx8MTc2MDc2MTIxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman headshot"
+    },
+    {
+      "id": "team-3",
+      "description": "Professional headshot of a person",
+      "imageUrl": "https://images.unsplash.com/photo-1633041147205-38ab179de9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwaGVhZHNob3R8ZW58MHx8fHwxNzYwNzgwODIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person headshot"
+    },
+    {
+      "id": "hero-1",
+      "description": "A smiling student holding books",
+      "imageUrl": "https://images.unsplash.com/photo-1558021211-6d1403321394?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdHVkZW50JTIwaG9sZGluZyUyMGJvb2tzfGVufDB8fHx8MTc2MDc4MDgyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student holding books"
+    },
+    {
+      "id": "why-choose-us-1",
+      "description": "Students collaborating in a modern classroom",
+      "imageUrl": "https://images.unsplash.com/photo-1567762755523-74cefdb5e25f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdHVkZW50cyUyMGNvbGxhYm9yYXRpbmd8ZW58MHx8fHwxNzYwNzMzNDM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students collaborating"
+    },
+    {
+      "id": "img-new",
+      "imageUrl": "https://i.postimg.cc/BvwdYqKK/Chat-GPT-Image-Oct-17-2025-11-13-31-AM.png",
+      "description": "this is test img",
+      "imageHint": "custom image"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "We're Building the Future of Creative Education.",
+    "description": "Xmarty Creator is more than a platform; it's a movement. We empower creators and learners worldwide to turn their passion into a profession.",
+    "imageId": "about-hero"
+  },
+  "story": {
+    "title": "Our Story",
+    "paragraphs": [
+      "Founded on the principle that education should be accessible and engaging, Xmarty Creator began as a humble YouTube channel. Driven by a passion for sharing knowledge and empowering others, we quickly realized the immense need for a centralized platform where creativity could flourish without boundaries.",
+      "Today, we have grown into a global community of curious learners, passionate creators, and industry experts. Our core mission remains unchanged: to democratize creativity by providing high-quality tools, resources, and education that inspire innovation and foster collaboration."
+    ]
+  },
+  "values": {
+    "title": "Our Core Values",
+    "description": "The principles that guide our every decision and define our community.",
+    "items": [
+      {
+        "title": "Empowerment",
+        "description": "We provide the tools and knowledge to turn ideas into reality."
+      },
+      {
+        "title": "Innovation",
+        "description": "We constantly explore new ways to make learning more effective and fun."
+      },
+      {
+        "title": "Community",
+        "description": "We believe in the power of collaboration and mutual support."
+      },
+      {
+        "title": "Growth",
+        "description": "We are committed to the continuous personal and professional growth of our members."
+      }
+    ]
+  },
+  "founder": {
+    "title": "Meet the Founder",
+    "description": "The visionary mind behind the Xmarty Creator movement.",
+    "name": "Mukesh Raj",
+    "role": "The Mind Behind",
+    "bio": "Mukesh is a visionary leader with a deep-rooted passion for technology and education. He founded Xmarty Creator with the steadfast belief that anyone can become a creator with the right tools, unwavering support, and a dedicated community. His goal is to build a platform that not only teaches skills but also ignites a lifelong passion for learning and innovation.",
+    "socials": {
+      "linkedin": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "youtube": "#"
+    }
+  }
+}

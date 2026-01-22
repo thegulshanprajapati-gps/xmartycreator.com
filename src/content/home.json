@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "title": "Build your <span style=\"color:red;\">Future, Together</span>",
+    "description": "Join our community of creators and learners. Get access to exclusive courses, tutorials, and resources to help you grow your skills and build your career.",
+    "buttons": {
+      "primary": {
+        "text": "Join our Youtube",
+        "link": "https://www.youtube.com/@XmartyCreator"
+      },
+      "secondary": {
+        "text": "Our Community",
+        "link": "/community"
+      }
+    }
+  },
+  "featuredCourses": {
+    "title": "Featured Courses",
+    "description": "Handpicked courses to kickstart your learning journey.",
+    "courses": [
+      {
+        "title": "Web Development Basics",
+        "description": "The perfect starting point for your web development journey. Learn HTML, CSS, and JavaScript from scratch.",
+        "imageId": "carousel-1"
+      },
+      {
+        "title": "Advanced UI/UX",
+        "description": "Go beyond the basics and master the art of creating intuitive and beautiful user interfaces.",
+        "imageId": "carousel-2"
+      },
+      {
+        "title": "React for Beginners",
+        "description": "Learn the most popular JavaScript library for building user interfaces, one component at a time.",
+        "imageId": "carousel-3"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Xmarty Creator?",
+    "description": "We are committed to providing the best learning experience with our hands-on approach and expert-led courses.",
+    "features": [
+      {
+        "title": "Expert-Led Training",
+        "description": "Learn from industry experts who bring real-world experience to the classroom."
+      },
+      {
+        "title": "Hands-On Projects",
+        "description": "Apply your skills with practical projects that build a strong portfolio."
+      },
+      {
+        "title": "Community Support",
+        "description": "Join a vibrant community of learners and mentors to support your growth."
+      },
+      {
+        "title": "Career Guidance",
+        "description": "Get the guidance you need to take the next step in your professional journey."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Students Say",
+    "description": "Hear from our students about their learning experience and success stories.",
+    "reviews": [
+      {
+        "name": "Gulshan",
+        "role": "student",
+        "testimonial": "I want Python course",
+        "rating": 3,
+        "avatar": "https://api.dicebear.com/8.x/adventurer/svg?seed=Gulshan"
+      },
+      {
+        "name": "Alex Johnson",
+        "role": "Frontend Developer",
+        "testimonial": "The React course was a game-changer for my career. The instructor was fantastic and the projects were incredibly helpful.",
+        "rating": 5,
+        "avatar": "https://api.dicebear.com/8.x/adventurer/svg?seed=AlexJohnson"
+      },
+      {
+        "name": "Samantha Lee",
+        "role": "UI/UX Designer",
+        "testimonial": "I loved the UI/UX Design course! It provided a solid foundation and inspired me to create more user-centric designs.",
+        "rating": 5,
+        "avatar": "https://api.dicebear.com/8.x/adventurer/svg?seed=SamanthaLee"
+      },
+      {
+        "name": "Michael Chen",
+        "role": "Full-Stack Developer",
+        "testimonial": "Xmarty Creator is an amazing platform. The content is top-notch and the community is very supportive.",
+        "rating": 4,
+        "avatar": "https://api.dicebear.com/8.x/adventurer/svg?seed=MichaelChen"
+      }
+    ]
+  }
+}

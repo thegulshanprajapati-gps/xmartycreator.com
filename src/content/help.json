@@ -1,0 +1,105 @@
+
+{
+  "/": {
+    "title": "Home Page Help",
+    "description": "Here are some common questions about our homepage.",
+    "faqs": [
+      {
+        "question": "How do I find the courses?",
+        "answer": "You can find our featured courses right on the homepage or click on 'Courses' in the navigation bar to see all available courses."
+      },
+      {
+        "question": "What is Xmarty Creator about?",
+        "answer": "Xmarty Creator is a platform to help you learn new skills and grow your career. We offer expert-led courses, a supportive community, and practical projects."
+      },
+      {
+        "question": "How can I join the community?",
+        "answer": "Click on the 'Our Community' button on the hero section or navigate to the 'Community' page from the main menu to find links to our WhatsApp, Telegram, and other community platforms."
+      }
+    ]
+  },
+  "/about": {
+    "title": "About Us Help",
+    "description": "Common questions about our company and team.",
+    "faqs": [
+      {
+        "question": "What is the mission of Xmarty Creator?",
+        "answer": "Our mission is to democratize creativity by providing high-quality tools, resources, and education that inspire innovation and foster collaboration."
+      },
+      {
+        "question": "Who is the founder?",
+        "answer": "Mukesh Raj is the founder of Xmarty Creator. He is a visionary leader with a deep-rooted passion for technology and education."
+      }
+    ]
+  },
+  "/courses": {
+    "title": "Courses Page Help",
+    "description": "Find answers about our course offerings.",
+    "faqs": [
+      {
+        "question": "How do I enroll in a course?",
+        "answer": "Currently, you can see our course offerings on this page. Click on the 'Enroll Now' button to show your interest. Full enrollment functionality will be coming soon!"
+      },
+      {
+        "question": "Are these courses for beginners?",
+        "answer": "We offer courses for all skill levels, from absolute beginners to advanced professionals. Each course description will tell you the required skill level."
+      }
+    ]
+  },
+  "/community": {
+    "title": "Community Help",
+    "description": "Questions about joining and participating in our community.",
+    "faqs": [
+      {
+        "question": "Which platform is the most active?",
+        "answer": "All our platforms are active! We recommend joining our mobile app community for the most integrated experience, but our WhatsApp and Telegram channels are also great for instant updates and discussions."
+      },
+      {
+        "question": "Is it free to join the community?",
+        "answer": "Yes, joining our community platforms is completely free."
+      }
+    ]
+  },
+  "/blog": {
+    "title": "Blog Help",
+    "description": "Find help related to our blog.",
+    "faqs": [
+      {
+        "question": "How often do you post new articles?",
+        "answer": "We aim to post new articles, tutorials, and insights weekly. Stay tuned for fresh content!"
+      }
+    ]
+  },
+  "/contact": {
+    "title": "Contact Page Help",
+    "description": "Having trouble contacting us? Here's some help.",
+    "faqs": [
+      {
+        "question": "How long does it take to get a response?",
+        "answer": "Our team tries to respond to all inquiries within 24-48 business hours. We appreciate your patience!"
+      },
+      {
+        "question": "Can I contact you for partnership opportunities?",
+        "answer": "Absolutely! Please use the contact form and specify your inquiry in the subject line. We'd love to hear from you."
+      }
+    ]
+  },
+  "/admin/dashboard": {
+    "title": "Admin Dashboard Help",
+    "description": "Guidance for managing your website content.",
+    "faqs": [
+      {
+        "question": "How do I save my changes?",
+        "answer": "After making any changes in a form, you must click the 'Save Changes' or 'Save All Changes' button, which is usually located at the top-right of the page. Your changes are not saved automatically."
+      },
+      {
+        "question": "Where do I get an Image ID?",
+        "answer": "You can manage all your website's images in the 'Image Gallery' section. Go there to upload new images or copy the ID of an existing one to use it in your content."
+      },
+      {
+        "question": "Why can't I see my changes on the live site?",
+        "answer": "After saving, it might take a moment for the changes to appear. Try refreshing the page. If the issue persists, ensure you have saved your changes correctly in the admin dashboard."
+      }
+    ]
+  }
+}

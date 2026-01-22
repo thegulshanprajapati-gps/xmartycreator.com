@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "message": "<span class=\"font-bold\">New Course!</span> {link}",
+  "linkText": "Advanced React Techniques is now available. Enroll today!",
+  "linkHref": "/courses"
+}

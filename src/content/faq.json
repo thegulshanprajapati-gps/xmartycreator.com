@@ -1,0 +1,33 @@
+
+{
+  "hero": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about our courses, platform, and community."
+  },
+  "questions": [
+    {
+      "question": "What kind of courses do you offer?",
+      "answer": "We offer a wide range of courses in web development, UI/UX design, mobile app development, data science, and more. Our courses are designed for all skill levels, from absolute beginners to advanced professionals."
+    },
+    {
+      "question": "Are the courses self-paced?",
+      "answer": "Yes, all of our courses are self-paced. You can learn at your own convenience and revisit the material as many times as you like. There are no deadlines for course completion."
+    },
+    {
+      "question": "Do I get a certificate upon completion?",
+      "answer": "Yes, upon successful completion of any course, you will receive a verifiable certificate that you can share on your LinkedIn profile and resume."
+    },
+    {
+      "question": "What if I get stuck or have questions?",
+      "answer": "We have a vibrant community forum where you can ask questions and get help from instructors and fellow students. For our premium courses, we also offer dedicated mentor support."
+    },
+    {
+      "question": "Can I get a refund if I'm not satisfied?",
+      "answer": "We offer a 30-day money-back guarantee on all our courses. If you're not satisfied for any reason, you can request a full refund within 30 days of purchase."
+    },
+    {
+      "question": "How do I access the community?",
+      "answer": "You can join our community through our dedicated mobile app, WhatsApp groups, and Telegram channels. You can find all the links on our Community page."
+    }
+  ]
+}

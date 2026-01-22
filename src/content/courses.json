@@ -1,0 +1,39 @@
+
+{
+  "hero": {
+    "title": "Our Courses",
+    "description": "Explore our wide range of courses designed to help you succeed."
+  },
+  "courses": [
+    {
+      "title": "Introduction to Web Development",
+      "description": "Learn the fundamentals of HTML, CSS, and JavaScript to build modern websites.",
+      "imageId": "carousel-1"
+    },
+    {
+      "title": "Advanced React Techniques",
+      "description": "Dive deep into React, learning about hooks, context, and performance optimization.",
+      "imageId": "carousel-2"
+    },
+    {
+      "title": "UI/UX Design Principles",
+      "description": "Master the art of creating beautiful and user-friendly interfaces.",
+      "imageId": "carousel-3"
+    },
+    {
+      "title": "Backend with Node.js",
+      "description": "Build scalable and efficient server-side applications with Node.js and Express.",
+      "imageId": "course-4"
+    },
+    {
+      "title": "Data Science with Python",
+      "description": "Explore data analysis, visualization, and machine learning using Python.",
+      "imageId": "course-5"
+    },
+    {
+      "title": "Mobile App Development",
+      "description": "Create cross-platform mobile apps for iOS and Android using React Native.",
+      "imageId": "course-6"
+    }
+  ]
+}

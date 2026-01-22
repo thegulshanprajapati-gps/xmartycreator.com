@@ -1,0 +1,28 @@
+
+{
+  "hero": {
+    "title": "Our Community Hub",
+    "description": "Welcome to our official YouTube channel. Watch, learn, and engage with our latest content."
+  },
+  "youtube": {
+    "videoId": "LVUH7SxUSx8"
+  },
+  "whatsapp": {
+    "title": "Join our WhatsApp Community",
+    "description": "Get instant updates, exclusive content, and connect with fellow learners on WhatsApp.",
+    "link": "https://whatsapp.com/channel/0029VaG3Z7S7DAWq90t7wt3o",
+    "buttonText": "Join Now"
+  },
+  "app": {
+    "title": "Download Our App",
+    "description": "Access all courses and community features on the go. Get the full Xmarty Creator experience.",
+    "link": "https://play.google.com/store/apps/details?id=co.diy4.btbfp",
+    "buttonText": "Get the App"
+  },
+  "telegram": {
+    "title": "Join our Telegram Channel",
+    "description": "Stay informed with the latest announcements, resources, and discussions on our Telegram channel.",
+    "link": "https://t.me/XmartyCreator",
+    "buttonText": "Join Now"
+  }
+}
